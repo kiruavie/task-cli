@@ -1,0 +1,9 @@
+[
+    {
+        "id": 1,
+        "description": "Acheter du lait",
+        "status": "in-progress",
+        "createdAt": "2025-04-21T08:37:35.475Z",
+        "updatedAt": "2025-04-21T08:39:41.377Z"
+    }
+]
