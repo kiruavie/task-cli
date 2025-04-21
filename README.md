@@ -4,4 +4,4 @@ A simple CLI task manager built with Node.js.
 
 ## Project URL
 
-https://github.com/kiruavie/task-cli
+https://roadmap.sh/projects/task-tracker
