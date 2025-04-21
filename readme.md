@@ -1,5 +1,7 @@
-fs → pour lire/écrire dans le fichier JSON.
+# Task CLI
 
-process.argv → pour récupérer les arguments de la ligne de commande.
+A simple CLI task manager built with Node.js.
 
-Date → pour les dates de création/mise à jour.
+## Project URL
+
+https://github.com/kiruavie/task-cli
